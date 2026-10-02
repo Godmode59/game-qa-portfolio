@@ -11,7 +11,7 @@
 | --- | --- | --- |
 | [로즈마리](cases/rosemary.md) | 팀 프로젝트 QA, 기획·UI 참여 | TC 작성, 카드 효과 연계 결함 리포트, 개발팀 공유 |
 | [RollingRolling](cases/rollingrolling.md) | 팀 프로젝트 QA 및 서브 아트 | 직접 발견한 스킨 UI 오류 조사와 코드 수정 |
-| [트릭컬 리바이브](cases/trickcal.md) | 학교 QA 실습 | 테스트 차터·TC 설계, 예외 관찰과 게임플레이 리뷰 |
+| [트릭컬](cases/trickcal.md) | 학교 QA 실습 | 테스트 차터·TC 설계, 예외 관찰과 게임플레이 리뷰 |
 | [Oblivion](cases/oblivion.md) | 팀 프로젝트 QA 및 서브 기획 | 대화 진행·연출 결함과 사용성 개선 의견 구분 |
 
 [포트폴리오 PDF 보기](portfolio/김해준_게임QA_포트폴리오.pdf)
